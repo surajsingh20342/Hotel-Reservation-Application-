@@ -1,7 +1,7 @@
 # Hotel-Reservation-Application-
 # Project Structure
-Contains the Java source code files.
-Includes SQL scripts for database setup.
+1. Contains the Java source code files.
+2. Includes SQL scripts for database setup.
 
 # Features
 1. Book room
@@ -11,6 +11,6 @@ Includes SQL scripts for database setup.
 5. Delete reservation
    
 # Technologies Used
-Java
-JDBC (Java Database Connectivity)
-PostgreSQL
+1. Java
+2. JDBC (Java Database Connectivity)
+3. PostgreSQL
